@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Don_en">ยังไม่มีบัญชีผู้ใช้งาน สมัครเลย</string>
+    <string name="Lonig_en">ลงทะเบียน</string>
+    <string name="Password_en">รหัสผ่าน</string>
+    <string name="email_en">อีเมล</string>
+    <string name="login_en">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+</resources>
