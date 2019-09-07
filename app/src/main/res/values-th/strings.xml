@@ -5,4 +5,6 @@
     <string name="Password_en">รหัสผ่าน</string>
     <string name="email_en">อีเมล</string>
     <string name="login_en">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="login_faild">อีเมลหรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="login_success">เข้าสู่ระบบสำเร็จ</string>
 </resources>

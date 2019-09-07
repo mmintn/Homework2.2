@@ -5,6 +5,8 @@
     <string name="Password_en">Password</string>
     <string name="Lonig_en">LONIG</string>
     <string name="Don_en">Do not have an account Register</string>
+    <string name="login_success">login success</string>
+    <string name="login_faild">Ivalid email or password</string>
 
 
 </resources>
